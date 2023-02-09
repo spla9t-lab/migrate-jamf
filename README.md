@@ -1,4 +1,4 @@
-# The Most Epic Jamf Migration Script
+# Epic Jamf Migration Script
 
 Have you ever wanted to move all your data from one Jamf server to another? 
 Do you want to do it in the coolest way possible? 
